@@ -1,0 +1,2 @@
+# KitchenMagic
+All veg recipies
